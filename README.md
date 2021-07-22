@@ -2,13 +2,13 @@
 Plugin for woocommerce that filters products by categories, name, slug etc ...
 
 
-###EndPoints:
+##EndPoints:
 
 Filter products by name
 
 https://store-example.com/wp-json/wc-filter/v1/filter/
 
-###Response:
+##Response:
 
 ```json
 [
@@ -19,6 +19,5 @@ https://store-example.com/wp-json/wc-filter/v1/filter/
         "guid": "http://tubolso.com.co/producto/chanel-clermont-rosa/",
         "image": "https://tubolso.com.co/wp-content/uploads/2021/07/6-360x210.jpg"
     }
-    ...
 ]
 ```

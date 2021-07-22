@@ -1,11 +1,11 @@
 <?php 
 /* 
 Plugin Name: Wc Filter
-Plugin URI: https://www.wcfilter.com
+Plugin URI: https://www.wcfilter.delysk.com
 Description: Plugin que permite el filtrado de productos por medio de una simple api REST
 Version: 1.0 
 Author: Rafael Garcia
-Author URI: https://www.rafaeljosegarciasuarez.com
+Author URI: https://www.delysk.com
 License: GPLv2 
 */
 
