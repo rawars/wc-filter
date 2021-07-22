@@ -8,7 +8,7 @@ Filter products by name
 
 https://store-example.com/wp-json/wc-filter/v1/filter/
 
-## Response:
+### Response:
 
 ```json
 [
