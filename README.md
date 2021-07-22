@@ -6,7 +6,7 @@ Plugin for woocommerce that filters products by categories, name, slug etc ...
 
 Filter products by name
 
-https://store-example.com/wp-json/wc-filter/v1/filter/
+https://store-example.com/wp-json/wc-filter/v1/filter/?product=Gucci
 
 ### Response:
 
